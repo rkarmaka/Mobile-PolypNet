@@ -9,10 +9,11 @@ In this paper, we proposed a novel lightweight image segmentation architecture t
 
 ## Model:
 ![Model architecture](https://github.com/rkarmaka/Mobile-PolypNet/blob/main/figs/model_arch_mod.png?raw=true)
+Mobile-PolypNet model backbone architecture with the bottleneck residual blocks and skip connection where x, e and c represents the number of bottleneck residual block, number of filters for expansion operation, and number of filters for contraction respectively.
 
 ## Results:
 ![Sample results](https://github.com/rkarmaka/Mobile-PolypNet/blob/main/figs/out_2.png?raw=true)
-
+Model's performance on test images from different datasets (from left) Kvasir, CVC-ClinicDB, CVC-300, Colon-DB, ETIS where first two are the seen datasets and last three are the unseen datasets
 
 
 ## Conclusion:
