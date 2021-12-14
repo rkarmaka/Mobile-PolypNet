@@ -1,4 +1,4 @@
-# Mobile-PolypNet
+# Mobile-PolypNet : Light-weight Colon Polyp Segmentation Network for Low Resources Settings
 ## Introduction:
 Colorectal cancer (CRC) is the third leading type of cancer globally, and the second principal cause of cancer-related death in the United States. Approximately 4% of the female and 4.3% of the male population in the United States suffer from colorectal cancer. However, with early detection and proper treatment, 90% of the patients have an increased life span of more than five years.
 
