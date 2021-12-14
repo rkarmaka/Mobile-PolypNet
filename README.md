@@ -8,7 +8,7 @@ In this paper, we proposed a novel lightweight image segmentation architecture t
 
 
 ## Model:
-![alt text](https://github.com/rkarmaka/Mobile-PolypNet/figs/model_arch_mod.png?raw=true)
+![Model architecture](https://github.com/rkarmaka/Mobile-PolypNet/blob/main/figs/model_arch_mod.png?raw=true)
 
 ## Results:
-![alt text](https://github.com/rkarmaka/Mobile-PolypNet/figs/out_2.png?raw=true)
+![Sample results](https://github.com/rkarmaka/Mobile-PolypNet/blob/main/figs/out_2.png?raw=true)
